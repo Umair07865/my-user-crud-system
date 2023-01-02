@@ -221,6 +221,7 @@ export default {
 
 
 <style scoped>
+
 .addnew {
   display: flex;
   flex-direction: column;
